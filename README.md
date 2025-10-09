@@ -35,7 +35,7 @@ Os projetos aqui desenvolvidos envolvem a integração de múltiplas tecnologias
 
 A organização dos arquivos segue um padrão modular para facilitar a navegação e o reuso dos conteúdos:
 
-
+```
 📦 powerbi-projects
 ├── 📁 dashboards/ → Dashboards prontos e templates
 ├── 📁 datasets/ → Conjuntos de dados e exemplos para treino
@@ -44,7 +44,7 @@ A organização dos arquivos segue um padrão modular para facilitar a navegaç�
 ├── 📁 bigdata/ → Projetos envolvendo Big Data
 ├── 📁 docs/ → Documentações, guias e artigos
 └── 📁 integrations/ → Integrações com APIs e automações
-
+````
 
 ---
 

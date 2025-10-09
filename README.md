@@ -85,7 +85,7 @@ Sinta-se à vontade para contribuir com:
 ## 📬 Contato
 
 📧 **Autor:** Leonardo Gildo  
-💼 **LinkedIn:** [linkedin.com/in/leonardogildo](https://linkedin.com/in/leonardogildo)  
+💼 **LinkedIn:** [linkedin.com/in/leonardogildo](https://www.linkedin.com/in/leonardo-gildo)  
 💻 **GitHub:** [github.com/leonardogildo](https://github.com/Leonardo-Gildo)
 
 ---

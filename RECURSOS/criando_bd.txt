@@ -1,0 +1,15 @@
+CREATE DATABASE cadastro_funcionario;
+
+\l
+
+\c cadastro_funcionario;
+
+CREATE schema exercicio;
+
+CREATE TABLE exercicio.colaboradores( nome CHAR(15), departamento CHAR(15));
+
+SELECT * FROM exercicio.colaboradores;
+
+INSERT INTO exercicio.colaboradores VALUES ('Luiz', 'RH');
+
+SELECT * FROM exercicio.colaboradores;
